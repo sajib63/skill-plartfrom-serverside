@@ -2,8 +2,8 @@
     {
         "id": "1",
         "course_thumb": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "instructor_img": "",
-        "instructor_name": "",
+        "instructor_img": "https://img.freepik.com/premium-photo/studio-portrait-blonde-caucasian-man-against-gray-background_251136-89117.jpg",
+        "instructor_name": "Raymond Barton",
         "subject": "HTML",
         "title": "Basic HTML Crash Course",
         "watch_time": "2 Days",
@@ -15,8 +15,8 @@
             {
                 "id": "1",
                 "course_thumb": "https://images.pexels.com/photos/11035371/pexels-photo-11035371.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                "instructor_img": "",
-                "instructor_name": "",
+                "instructor_img": "https://img.freepik.com/premium-photo/handsome-man-wall_1368-103476.jpg?w=740",
+                "instructor_name": "Raymond Barton",
                 "subject": "HTML-5",
                 "title": "Advanced HTML Crash Course",
                 "watch_time": "5 Days",
@@ -28,9 +28,9 @@
     },
     {
         "id": "2",
-        "course_thumb": "https://media.istockphoto.com/photos/word-css-on-wooden-desk-and-laptop-picture-id1363205770?b=1&k=20&m=1363205770&s=612x612&w=0&h=iSujHuTpLz_E-1hvxIKWBg9LHnW00KkbYqT8P92q1VQ=",
-        "instructor_img": "",
-        "instructor_name": "",
+        "course_thumb": "https://img.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?w=740",
+        "instructor_img": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg?w=740&t=st=1666699918~exp=1666700518~hmac=0cba0faf12bed6b4d8c76a766e9c102ff74e2d7dd4827978879f4a64def29ac7",
+        "instructor_name": "Brent Webster",
         "subject": "CSS",
         "title": "Basic CSS Crash Course",
         "watch_time": "2 Days",
@@ -42,8 +42,8 @@
             {
                 "id": "1",
                 "course_thumb": "https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&w=1600",
-                "instructor_img": "",
-                "instructor_name": "",
+                "instructor_img": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg?w=740&t=st=1666699918~exp=1666700518~hmac=0cba0faf12bed6b4d8c76a766e9c102ff74e2d7dd4827978879f4a64def29ac7",
+                "instructor_name": "Brent Webster",
                 "subject": "CSS-3",
                 "title": "Advance CSS Crash Course",
                 "watch_time": "5 Days",
@@ -55,9 +55,9 @@
     },
     {
         "id": "3",
-        "course_thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-        "instructor_img": "",
-        "instructor_name": "",
+        "course_thumb": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?w=740&t=st=1666700616~exp=1666701216~hmac=3572b0edc9a28a69a85015041a399aaed73b8684bec3d283008a652a856db9fd",
+        "instructor_img": "https://img.freepik.com/premium-photo/handsome-man-wall_1368-103476.jpg?w=740",
+        "instructor_name": "Tracy Osborne",
         "subject": "JavaScript",
         "title": "Basic JavaScript Crash Course",
         "watch_time": "10 Days",
@@ -69,8 +69,8 @@
             {
                 "id": "1",
                 "course_thumb": "https://media.istockphoto.com/photos/paper-width-word-javascript-and-laptop-glasses-and-coffee-on-wooden-picture-id1272412780?b=1&k=20&m=1272412780&s=612x612&w=0&h=ZnoBbyBbZ5WYMXJH6kzJ6C9SZhr-HXnL4DXXU2k0qg4=",
-                "instructor_img": "",
-                "instructor_name": "",
+                "instructor_img": "https://img.freepik.com/premium-photo/handsome-man-wall_1368-103476.jpg?w=740",
+                "instructor_name": "Tracy Osborne",
                 "subject": "Advance-JavaScript",
                 "title": "Advance JavaScript Crash Course",
                 "watch_time": "20 Days",
@@ -82,9 +82,9 @@
     },
     {
         "id": "4",
-        "course_thumb": "https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png",
-        "instructor_img": "",
-        "instructor_name": "",
+        "course_thumb": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?w=740&t=st=1666700951~exp=1666701551~hmac=04985bc49bbf82281e874868159ad240d69d3e7bd8aa84f3ff79b16d582d5675",
+        "instructor_img": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg?w=740&t=st=1666699918~exp=1666700518~hmac=0cba0faf12bed6b4d8c76a766e9c102ff74e2d7dd4827978879f4a64def29ac7",
+        "instructor_name": "Herman Fletcher",
         "subject": "React-js",
         "title": "Basic React Js Crash Course",
         "watch_time": "20 Days",
@@ -94,10 +94,10 @@
         "rating": "4.9",
         "advance": [
             {
-                "id": "1",
+                "id": "4",
                 "course_thumb": "https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png",
-                "instructor_img": "",
-                "instructor_name": "",
+                "instructor_img": "https://img.freepik.com/free-photo/man-wearing-waistcoat_1368-2886.jpg?w=740&t=st=1666699918~exp=1666700518~hmac=0cba0faf12bed6b4d8c76a766e9c102ff74e2d7dd4827978879f4a64def29ac7",
+                "instructor_name": "Herman Fletcher",
                 "subject": "Advanced-React-jS",
                 "title": "Advance React Js Crash Course",
                 "watch_time": "30 Days",
@@ -109,11 +109,11 @@
     },
     {
         "id": "5",
-        "course_thumb": "",
-        "instructor_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6wmmDplOW5aArY0pXQ5TicHTSRNVBgKI6g&usqp=CAU",
-        "instructor_name": "",
-        "subject": "Express-Js and Node-Js",
-        "title": "Basic Express-Js and Node-Js",
+        "course_thumb": "https://img.freepik.com/free-vector/programer-learning-programming-languages-by-computer-laptop-website-tutorial-channel-online-education-class-vector-illustration-software-development-programming-languages-learning_1150-55428.jpg?w=740&t=st=1666702024~exp=1666702624~hmac=9d84dead2cd933b12687998aa8b2e30d9940e1bc14d001bb89c68e9a9c01f927",
+        "instructor_img": "https://img.freepik.com/premium-photo/handsome-man-wall_1368-103476.jpg?w=740",
+        "instructor_name": "Terrell Peters",
+        "subject": "Java",
+        "title": "Basic Java Crash Course",
         "watch_time": "20 Days",
         "lectures": "30 Lectures",
         "basic_price": "100",
@@ -122,11 +122,11 @@
         "advance": [
             {
                 "id": "1",
-                "course_thumb": "",
-                "instructor_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6wmmDplOW5aArY0pXQ5TicHTSRNVBgKI6g&usqp=CAU",
-                "instructor_name": "",
-                "subject": "Express-Js and Node-Js",
-                "title": "Advance Express-Js and Node-Js ",
+                "course_thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6wmmDplOW5aArY0pXQ5TicHTSRNVBgKI6g&usqp=CAU",
+                "instructor_img": "https://img.freepik.com/premium-photo/handsome-man-wall_1368-103476.jpg?w=740",
+                "instructor_name": "Terrell Peters",
+                "subject": "Java",
+                "title": "Advance  Java Crash Course ",
                 "watch_time": "30 Days",
                 "lectures": "40 Lectures",
                 "advance_price": "150",
@@ -136,9 +136,9 @@
     },
     {
         "id": "6",
-        "course_thumb": "https://servicenav.coservit.com/wp-content/uploads/2022/05/18-1.jpg",
-        "instructor_img": "",
-        "instructor_name": "",
+        "course_thumb": "https://img.freepik.com/free-vector/server-room-isometric-icon-database-connection-transfer-data-remote-cloud-storage-server-rack_39422-842.jpg?w=740&t=st=1666701191~exp=1666701791~hmac=0cdb07c834e6bffa45c28d0b7b0be004a8628751142262446bd8f081b5c1f3ff",
+        "instructor_img": "https://img.freepik.com/premium-photo/studio-portrait-blonde-caucasian-man-against-gray-background_251136-89117.jpg",
+        "instructor_name": "Melvin Cruz",
         "subject": "MongoDB",
         "title": "Basic MongoDB Crash Course",
         "watch_time": "30 Days",
@@ -148,10 +148,10 @@
         "rating": "4.9",
         "advance": [
             {
-                "id": "1",
+                "id": "6",
                 "course_thumb": "https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png",
-                "instructor_img": "",
-                "instructor_name": "",
+                "instructor_img": "https://img.freepik.com/premium-photo/studio-portrait-blonde-caucasian-man-against-gray-background_251136-89117.jpg",
+                "instructor_name": "Melvin Cruz",
                 "subject": "MongoDB",
                 "title": "Basic MongoDB Crash Course",
                 "watch_time": "40 Days",
@@ -160,7 +160,5 @@
                 "rating": "4.9"
             }
         ]
-    }
-   
-    
+    }   
 ]
