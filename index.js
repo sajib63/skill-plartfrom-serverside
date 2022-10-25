@@ -15,6 +15,13 @@ app.get('/data', (req, res)=>{
     res.send(data)
 })
 
+app.get("/data/:id", (req, res) => {
+    const id = req.params.id;
+    const singleData = data.find((p) => p.id === id);
+  
+    res.send(singleData);
+  });
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
