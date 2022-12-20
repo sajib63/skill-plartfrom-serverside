@@ -2,6 +2,7 @@
     {
         "id": "1",
         "course_thumb": "https://images.pexels.com/photos/1591061/pexels-photo-1591061.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        
         "instructor_img": "https://img.freepik.com/premium-photo/studio-portrait-blonde-caucasian-man-against-gray-background_251136-89117.jpg",
         "instructor_name": "Raymond Barton",
         "subject": "HTML",
